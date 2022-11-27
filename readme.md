@@ -30,7 +30,7 @@
 
 - "let data: string[] = ["anil", "jeyo", "merio"]"
 
-# OBJECT IN TYPESCRIPT
+# OBJECT IN TYPESCRIPT 👇
 
 `Types Object`
 
@@ -40,7 +40,7 @@
 - define custom type for object
 - use any with object
 
-# union types in typescript
+# union types in typescript 👇
 
 - Union types are used when a value can be more than a single type.
 
@@ -48,3 +48,15 @@ Such as when a property would be `string` or `number`.
 
 - how to define union types ?
   Using the | we are saying our parameter is a `string` or `number` or `bolean`
+
+  # TypeScript Type Aliases and Interfaces 👇
+
+  ALIASES 👍
+
+  - Type Aliases allow defining types with a custom name (an Alias).
+  - Type Aliases can be used for primitives like string or more complex types such as `objects` and `arrays`:
+
+  INTERFACES 👍
+
+  - Interfaces are similar to type aliases, except they only apply to object types.
+    -Extending an interface means you are creating a new interface with the same properties as the original, plus something new. `interface extends colorInterface`
