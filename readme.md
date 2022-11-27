@@ -39,3 +39,12 @@
 - add new property
 - define custom type for object
 - use any with object
+
+# union types in typescript
+
+- Union types are used when a value can be more than a single type.
+
+Such as when a property would be `string` or `number`.
+
+- how to define union types ?
+  Using the | we are saying our parameter is a `string` or `number` or `bolean`
