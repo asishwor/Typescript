@@ -18,17 +18,17 @@
 
     //array in typescript:
 
-# Array without data types
+# Array In Typescript
 
-# push and update array operations in ts
+- Array without data types
 
-# mixed array
+- push and update array operations in ts
 
-# define array
+- mixed array
 
-# array in typescript
+- define array
 
-=> let data: string[] = ["anil", "jeyo", "merio"];
+- "let data: string[] = ["anil", "jeyo", "merio"]"
 
 # OBJECT IN TYPESCRIPT
 

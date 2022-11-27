@@ -4,6 +4,5 @@
 // mixed array
 // define array
 var data = ["anil", "jeyo", "merio"];
+
 console.warn(data);
-var count = [1, 2, 5, 52];
-console.log(count);
