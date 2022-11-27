@@ -66,7 +66,7 @@ INTERFACES 👍
 - Interfaces are similar to type aliases, except they only apply to object types.
   -Extending an interface means you are creating a new interface with the same properties as the original, plus something new. `interface extends colorInterface`
 
-# [Typescript Function ](https://github.com/asishwor/Typescript/functionInTypescript.ts) 👇
+# [Typescript Function ](https://github.com/asishwor/Typescript/blob/main/functionInTypescript.ts) 👇
 
 - Parameter `Function parameters are typed with a similar syntax as variable declarations`
 - Default Parameters
