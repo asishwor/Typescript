@@ -1,44 +1,52 @@
+# What i learn in this 👍
+
+    - types in define in typescript
+    - array type defined
+    - object in typescript
+    - `aliasis` and `interface`
+     - extend inteface
+
 # InterView Questions 👍
 
 1.  `can we compile multiple file merge inside one ts file? `
-    =>
 
-2.  can we run ts file directly ?
-    => NO, we cant't run this file direct it will need to convert into js file.
+- `can we run ts file directly` ?
 
-    # data types in types script !
+  - NO, we cant't run this file direct it will need to convert into js file.
 
-    1. number // 125525
-    2. String //"hello world "
-    3. boolean // true/ false
+# data types in types script !
 
-    # watch module
+    - number - 125525
+    - String - "hello world "
+    - boolean - true / false
 
-    => tsc file.ts --watch
+# watch module
 
-    //array in typescript:
+    - tsc file.ts --watch
+
+    - array in typescript:
 
 # Array In Typescript
 
-- Array without data types
+    - Array without data types
 
-- push and update array operations in ts
+    - push and update array operations in ts
 
-- mixed array
+    - mixed array
 
-- define array
+    - define array
 
-- "let data: string[] = ["anil", "jeyo", "merio"]"
+`"let data: string[] = ["anil", "jeyo", "merio"]"`
 
 # OBJECT IN TYPESCRIPT 👇
 
 `Types Object`
 
-- default typed object
-- update Property
-- add new property
-- define custom type for object
-- use any with object
+    - default typed object
+    - update Property
+    - add new property
+    - define custom type for object
+    - use any with object
 
 # union types in typescript 👇
 
