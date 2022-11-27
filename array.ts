@@ -5,3 +5,5 @@
 // define array
 let data: string[] = ["anil", "jeyo", "merio"];
 console.warn(data);
+let count: number[] = [1, 2, 5, 52];
+console.log(count);
