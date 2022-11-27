@@ -6,8 +6,6 @@
     - aliasis and interface
      - extend inteface
 
-# [a link](https://github.com/user/repo/blob/branch/other_file.md)
-
 # InterView Questions 👍
 
 1.  `can we compile multiple file merge inside one ts file? `
@@ -67,3 +65,15 @@ INTERFACES 👍
 
 - Interfaces are similar to type aliases, except they only apply to object types.
   -Extending an interface means you are creating a new interface with the same properties as the original, plus something new. `interface extends colorInterface`
+
+# [Typescript Function ](https://github.com/asishwor/Typescript/functionInTypescript.ts) 👇
+
+- Parameter `Function parameters are typed with a similar syntax as variable declarations`
+- Default Parameters
+- define a normal function , define function type, add params in function , define params type, optional params with type
+  `Named parameters`
+  Typing named parameters follows the same pattern as typing normal parameters.
+  `Rest Parameters`
+  Rest parameters can be typed like normal parameters, but the type must be an array as rest parameters are always arrays.
+  `optional Parameters`
+  the `?` operator here marks parameter `c` as optional ` (a;number, b:number, c?:number)`
