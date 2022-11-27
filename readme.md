@@ -59,10 +59,9 @@
 
 # [TypeScript Type Aliases and Interfaces](https://github.com/asishwor/Typescript/blob/main/interface_aliasis.ts) 👇
 
-ALIASES 👍
-
-- Type Aliases allow defining types with a custom name (an Alias).
-- Type Aliases can be used for primitives like string or more complex types such as `objects` and `arrays`:
+     ALIASES 👍
+    - Type Aliases allow defining types with a custom name (an Alias).
+    - Type Aliases can be used for primitives like string or more complex types such as `objects` and `arrays`:
 
 INTERFACES 👍
 
